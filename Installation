@@ -1,0 +1,7 @@
+Installation and Setup:
+
+Clone the repository from GitHub.
+Set up XAMPP and start Apache and MySQL.
+Import the provided SQL database file into MySQL.
+Configure the database connection in the PHP files.
+Run the project on your local server.
